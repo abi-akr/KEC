@@ -11,4 +11,5 @@ There was a problem connecting to homework_grader
 intha maari error varuthu I can't connect to the mongoDB compass itself
 Can you Solve it?
 
-python oda connect panrappova ?? ila mangodb liye ERROR ah ??
+python oda connect panrappova ?? ila mongodb liye ERROR ah ??
+MongoDB localhost la try panni paarunga or else go with firebase
