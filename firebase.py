@@ -4,7 +4,7 @@ from firebase_admin import credentials, firestore
 from datetime import datetime
 
 # Initialize the app with a service account
-cred = credentials.Certificate("C:\\Users\\selva\\OneDrive\\Desktop\\Documents\\securityAccountkey.json")
+cred = credentials.Certificate("C:\\Users\\ABINESH16\\Downloads\\securityAccountkey.json")
 firebase_admin.initialize_app(cred)
 
 # Connect to Firestore
