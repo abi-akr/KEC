@@ -17,3 +17,6 @@ MongoDB localhost la try panni paarunga or else go with firebase
 okay
 
 =>>  Neenga Database create pantingana !! atha python code mooliyama insert,delete laam panna muditha nu paarunga.. Ena Ai use panringa Blackbox Ah ?
+
+
+ ama blackbox mattum thaan hostel net ku varum vera entha AI yum edukaathu
