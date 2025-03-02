@@ -13,4 +13,7 @@ Can you Solve it?
 
 python oda connect panrappova ?? ila mongodb liye ERROR ah ??
 MongoDB localhost la try panni paarunga or else go with firebase
- okay
+ 
+okay
+
+=>>  Neenga Database create pantingana !! atha python code mooliyama insert,delete laam panna muditha nu paarunga.. Ena Ai use panringa Blackbox Ah ?
