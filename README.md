@@ -1,2 +1,9 @@
-I just run the code in google colab , It is working... I think sophos block the firebase connections in our system !!
-mm ama firewall thaan block pannuthu!!
+!!!! use collab to run the code !!!
+
+prepare seperate modules/ functtions to
+
+    => store user registration info
+    => user submissions
+    => user grader history 
+    => retrival of all the above
+
